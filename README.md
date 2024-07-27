@@ -1,5 +1,2 @@
-# newrepo
-this  is my first git repository
-<br>
-this is the breaking of line
-name: "vishal Baliram Kode"
+this is the new repository
+nd we are doing the changes in it
